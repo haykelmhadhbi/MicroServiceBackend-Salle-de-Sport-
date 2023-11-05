@@ -1,0 +1,4 @@
+[submodule "AbonnementProjet"]
+	path = AbonnementProjet
+	url = https://github.com/MicroService5twin1/MicroService.git
+	branch = Features/abonnement
